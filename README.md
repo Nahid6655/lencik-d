@@ -1,1 +1,1 @@
-Updated: Now supports user input for array size and elements
+Проект поиска максимума сделал Тарвердиев
